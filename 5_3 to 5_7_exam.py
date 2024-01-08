@@ -27,10 +27,15 @@ for n in range(cycle):
             print(f"You Kill {killed} enemy. You got {point} point!! Your total Point is {sumpoint}")
             enemy.remove(killed)
             n=n+1        
-            
     else :
         print("You are dead.")
-        n=n+999
+        break
+print(f"your total point is {sumpoint}.")
+
+
+
+
+
 
         
     
