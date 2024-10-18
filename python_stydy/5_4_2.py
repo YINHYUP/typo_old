@@ -1,8 +1,13 @@
+<<<<<<< HEAD
+c_users=["A","B","C","D","E","ADMIN"]
+n_users=["f","g","a","c","z"]
+=======
 """
 c_users=["A","B","C","D","E","ADMIN"]
 n_users=["f","g","A","c","Z"]
 c_users_lower=[name.lower() for name in c_users]
 n_users_lower=[name.lower() for name in n_users]
+>>>>>>> 8232652ad97d411c0c5ebecc4f7b92f0b164b6f1
 
 
 
